@@ -1,0 +1,312 @@
+7
+30 O(n^1)
+F l 74 n
+F p n n
+E
+E
+F o 25 n
+F a n 32
+E
+E
+F u 61 52
+F r n 9
+E
+E
+F k 25 70
+E
+F h n n
+E
+F z n n
+F d n 48
+E
+E
+F c n n
+E
+F w 82 n
+E
+F i n 55
+E
+F b n 33
+E
+F k 52 n
+E
+30 O(n^2)
+F l n 7
+E
+F j n n
+E
+F v n 65
+F i n n
+E
+E
+F g 86 n
+F q n 9
+F b n n
+F y n n
+E
+E
+E
+E
+F k n n
+E
+F h n 80
+F r 13 85
+E
+E
+F l 73 n
+F v 3 70
+E
+E
+F d 41 n
+F c 42 n
+E
+E
+2 O(1)
+F d n n
+E
+78 O(n^1)
+F m 41 n
+E
+F i n 70
+F g 90 27
+E
+E
+F x 23 31
+E
+F s n 52
+E
+F c 97 n
+E
+F z 34 n
+E
+F h n n
+E
+F i 79 n
+E
+F q n 99
+F v 45 46
+E
+E
+F l n n
+E
+F e n 27
+E
+F f 21 75
+F d 45 n
+E
+E
+F u n n
+E
+F u 73 n
+E
+F m n 81
+E
+F r n 52
+E
+F h n 3
+E
+F h 51 91
+F m 79 5
+F i 41 n
+E
+E
+E
+F k n 29
+E
+F w 98 94
+E
+F b n n
+E
+F u 90 n
+E
+F p 44 94
+E
+F y 87 n
+F j n 50
+F x 48 n
+E
+E
+E
+F l 3 n
+E
+F h n 4
+E
+F g 45 n
+F f 33 41
+F c n n
+F y 80 78
+F r 19 n
+F t n 93
+E
+E
+E
+E
+E
+E
+78 O(n^2)
+F b 65 n
+E
+F o 60 n
+E
+F y 32 n
+E
+F i 94 n
+F d 52 n
+E
+E
+F f n 38
+E
+F w 23 62
+E
+F b n 76
+E
+F b n n
+E
+F r 97 n
+E
+F m n n
+F q n 6
+F j n n
+E
+E
+E
+F c n n
+F e 64 n
+E
+E
+F g n n
+E
+F c 22 12
+E
+F o 56 8
+E
+F w 19 63
+E
+F w n 55
+E
+F f 42 71
+F g 86 n
+F t n 59
+F a n 30
+F v n n
+F y 68 n
+E
+E
+E
+E
+E
+E
+F o n 31
+F m n 95
+E
+E
+F h 70 n
+F q n 28
+E
+E
+F f 50 n
+E
+F d 49 3
+F o n 8
+F i n n
+E
+E
+E
+F g n 84
+F y 9 n
+F r n n
+F a 95 n
+F u 43 18
+E
+E
+E
+E
+E
+48 O(n^2)
+F z 99 4
+F g n n
+E
+E
+F j n n
+F u 56 26
+E
+E
+F w 47 4
+E
+F j 59 n
+F z 36 n
+E
+E
+F l 12 60
+E
+F v 81 64
+F d n 10
+E
+E
+F x 29 n
+F o 43 25
+F m 86 32
+E
+E
+E
+F c 78 n
+E
+F u 55 n
+F v n n
+E
+E
+F l n 82
+E
+F o 44 n
+E
+F l 6 n
+F g 47 n
+F c 17 62
+E
+E
+E
+F l n 65
+E
+F s 49 76
+F i 49 7
+E
+E
+38 O(n^2)
+F e n 82
+F l 2 n
+E
+E
+F t n 52
+E
+F x 4 n
+F d 57 n
+E
+E
+F f n n
+F h n n
+E
+E
+F f 9 n
+E
+F p 92 n
+E
+F a 74 n
+F y n n
+F x n 16
+F f n 61
+E
+E
+E
+E
+F k n 48
+F i 57 35
+E
+E
+F s 93 42
+E
+F v n n
+F z n 46
+F f n 10
+E
+E
+E

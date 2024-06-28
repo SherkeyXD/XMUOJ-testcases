@@ -1,0 +1,26 @@
+{
+    "spj": false,
+    "test_cases": {
+        "1": {
+            "stripped_output_md5": "2d141399f0ae883fe953c6833c6d6d83",
+            "input_size": 52,
+            "output_size": 128,
+            "input_name": "1.in",
+            "output_name": "1.out"
+        },
+        "2": {
+            "stripped_output_md5": "e2ce9cc3107f0e55e33422b0b806157f",
+            "input_size": 31,
+            "output_size": 38,
+            "input_name": "2.in",
+            "output_name": "2.out"
+        },
+        "3": {
+            "stripped_output_md5": "cfbe53ee35b1b877375055b4fccb727a",
+            "input_size": 27,
+            "output_size": 52,
+            "input_name": "3.in",
+            "output_name": "3.out"
+        }
+    }
+}

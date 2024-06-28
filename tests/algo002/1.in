@@ -1,0 +1,364 @@
+8
+10 O(n^1)
+F t 36 n
+E
+F h n n
+E
+F s 64 11
+E
+F d 16 n
+F b n n
+E
+E
+63 O(n^28)
+F o 3 n
+F g 74 73
+E
+E
+F w n n
+F o n 28
+E
+E
+F g 78 n
+F g 56 n
+F p n n
+E
+E
+E
+F d n 88
+F i 21 11
+E
+E
+F y 32 n
+F w 54 n
+F u 44 n
+F q 30 n
+E
+E
+E
+E
+F z n 99
+E
+F a 89 n
+F r n 38
+E
+E
+E
+F l n 91
+E
+F u 95 n
+F g n 20
+E
+E
+F z 36 n
+E
+F s n n
+F k n n
+F h 92 n
+F c 39 86
+E
+E
+E
+E
+F h 89 n
+E
+F h n 74
+E
+F j n n
+E
+F a n 38
+E
+F p 21 n
+F q n 30
+F u 90 n
+E
+E
+E
+54 O(n^1)
+F y n 37
+E
+F m n n
+F e n n
+E
+E
+F e 11 n
+E
+F w n 40
+E
+F m 8 n
+E
+F l n 1
+E
+F i 25 58
+F w n 26
+E
+E
+F z 72 87
+F c n n
+E
+E
+F l 72 n
+E
+F m 13 45
+F z n 8
+F h 8 32
+F s 97 10
+F y n n
+E
+E
+E
+E
+E
+F h 52 n
+F q n n
+E
+E
+F a n 66
+E
+F w n 49
+F k 12 92
+F b n 46
+F u 24 21
+E
+E
+E
+E
+F z n n
+F g 66 49
+F v n n
+E
+E
+E
+14 O(1)
+F h n 36
+E
+F i 79 96
+F c n 27
+E
+E
+F l n n
+F v 38 19
+F g 63 n
+F j 42 57
+E
+E
+E
+E
+20 O(n^1)
+F l 35 n
+E
+F k n 60
+E
+F q 85 28
+E
+F j 41 n
+E
+F h 72 81
+F v n n
+F t 95 75
+F c 43 n
+E
+E
+E
+E
+F e 25 29
+E
+F h n n
+E
+70 O(n^1)
+F u 61 75
+E
+F a n n
+E
+F w n 51
+E
+F j n n
+E
+F g n 81
+E
+F l 61 n
+F d n n
+F p 17 48
+E
+E
+E
+F u 29 n
+E
+F y n 37
+F v 3 n
+F p n 96
+E
+E
+E
+F o 35 n
+F i 99 35
+F f n n
+F e 89 n
+F b n 22
+E
+E
+E
+E
+E
+F q n n
+E
+F z 11 n
+E
+F s 86 53
+E
+F v 6 n
+F w n n
+F p 37 11
+E
+E
+E
+F m 74 n
+F d n 95
+F g 46 49
+E
+E
+E
+F k n 58
+E
+F b n 28
+F v 3 n
+F t 58 n
+F u 45 n
+E
+E
+E
+E
+F k n 55
+E
+F r n n
+E
+F f 88 n
+F h n n
+E
+E
+76 O(n^2)
+F b 11 n
+E
+F s 80 99
+F u n n
+E
+E
+F g 13 53
+F e 23 n
+E
+E
+F r n n
+E
+F o 25 n
+E
+F y n 20
+E
+F e n n
+F v n 29
+E
+E
+F w 98 n
+F z n n
+F c 42 78
+F q 8 n
+E
+E
+E
+E
+F g 85 n
+E
+F o 20 2
+E
+F v n 57
+F i n 54
+F g 48 n
+E
+E
+E
+F k 52 n
+E
+F s n 27
+F p 6 n
+F i 9 89
+E
+E
+E
+F e 1 84
+E
+F g 44 n
+E
+F q n 22
+E
+F o n n
+E
+F r n n
+F h 44 16
+F v 38 n
+F b n n
+F l 50 65
+E
+E
+E
+E
+E
+F z 63 n
+E
+F w n n
+F k 46 98
+F i n 69
+F y 81 98
+F c 82 82
+E
+E
+E
+E
+E
+48 O(n^24)
+F e 69 68
+E
+F i 64 n
+E
+F o 82 n
+F b 69 n
+E
+E
+F b 61 n
+E
+F i n 5
+E
+F r 22 66
+E
+F j n n
+E
+F s 22 n
+F c n 47
+F f 65 83
+E
+E
+E
+F g 20 72
+F e n 81
+E
+E
+F a 22 n
+E
+F e n n
+E
+F l 46 n
+E
+F z n n
+E
+F c n n
+E
+F j n n
+F y n n
+F w 43 21
+F l n 47
+F r 49 28
+F u n 81
+E
+E
+E
+E
+E
+E

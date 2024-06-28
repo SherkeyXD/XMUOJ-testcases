@@ -1,0 +1,25 @@
+{
+    "spj": true,
+    "test_cases": {
+        "1": {
+            "input_name": "1.in",
+            "input_size": 6663
+        },
+        "2": {
+            "input_name": "2.in",
+            "input_size": 1067
+        },
+        "3": {
+            "input_name": "3.in",
+            "input_size": 2731
+        },
+        "4": {
+            "input_name": "4.in",
+            "input_size": 4287
+        },
+        "5": {
+            "input_name": "5.in",
+            "input_size": 685
+        }
+    }
+}

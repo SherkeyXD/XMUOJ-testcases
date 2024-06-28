@@ -1,0 +1,4 @@
+# Sources
+*.in     text eol=lf
+*.out    text eol=lf
+*.json   text eol=lf
